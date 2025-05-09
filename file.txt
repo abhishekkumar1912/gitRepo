@@ -1,5 +1,3 @@
 hello, this is abhishek ..
 i am from bihar, living in bhopal..
-i am from 2024 batch..
-these changes i am making to generate merge conflict..
-again, making to merge conflict..
+i am from bihar..

@@ -6,3 +6,4 @@ addes something in main branch..
 in bug-fix brnahc..
 addign this from another profile...
 resolved bug-fix in file.txt
+resolved bug-fix2..
